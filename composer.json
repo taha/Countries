@@ -1,0 +1,12 @@
+{
+    "name": "tahahesham/countries",
+    "description": "Basic PHP countries library",
+    "authors": [{
+        "name": "Taha Hesham",
+        "email": "taha@wizylabs.com.com"
+    }],
+    "require": {},
+    "autoload": {
+        "classmap": ["./"]
+    }
+}
